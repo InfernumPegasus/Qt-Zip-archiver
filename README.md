@@ -1,2 +1,2 @@
-# Qt
- My projects on Qt Framework for C++.
+# Qt Zip archiver
+ My cource project on Qt Framework for C++.
